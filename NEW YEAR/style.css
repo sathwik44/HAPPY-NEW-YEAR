@@ -17,6 +17,21 @@
     transform: translate(-50%,-50%);
     color: #fff;
 }
+.suprise {
+    position: relative;
+    background-image: url(https://wallpapercave.com/wp/LHwDMUN.jpg);
+    height: 100vh;
+    width: 100%;
+}
+
+.suprise .main{
+    text-align: center ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+}
 .main h1{
     font-size: 80px;
     margin-bottom: 30px;
@@ -29,3 +44,4 @@
     color: rgb(252, 229, 229);
     text-shadow: 0 0 10px #f47927
 }
+
